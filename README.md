@@ -8,7 +8,7 @@ The goal of the site is to geovisually demonstrate some of the ramifications of 
 
 The website uses the storymap template and uses it to display specific locations and geojsons to illustrate the seismic dangers facing the pacific northwest. 
 
-![](assets/screenshot1.jpg)
+![](assets/screenshot1.JPG)
 ![](assets/quake.jpg)
 
 A majority of my time was spent securing and working the data that was present getting it from very large geodatabases and then reducing the resolution to the extent that it could reasonably load on a webpage. I used the mapbox basemap that I created for this course, also using color coding as taught in the 
